@@ -11,3 +11,4 @@ tools/libpico/build-rp2040
 tools/libpico/build-rp2350
 tools/libpico/build-rp2350-riscv
 platform.local.txt
+.ccls-cache
